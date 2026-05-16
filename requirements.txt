@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+numpy<2
+Pillow
+realesrgan
+basicsr
+gfpgan
+facexlib
+gdown
+aria2
+IPython
