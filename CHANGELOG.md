@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ---
 
+## [1.0.2] - 2026-05-17
+
+### Fixed
+- `ModuleNotFoundError: No module named 'torchvision.transforms.functional_tensor'` — basicsr from PyPI uses deprecated torchvision import. Now installs from GitHub sources (BasicSR, Real-ESRGAN, GFPGAN) which have the compatibility fix.
+
 ## [1.0.1] - 2026-05-17
 
 ### Removed
