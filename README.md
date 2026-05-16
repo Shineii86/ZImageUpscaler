@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=𝗭-𝗜𝗺𝗮𝗴𝗲%20𝗨𝗽𝘀𝗰𝗮𝗹𝗲𝗿&fontAlignY=30&fontSize=100&desc=AI-Powered%202x%2F4x%20Enhancement%20·%20Real-ESRGAN%20·%20Face%20Enhance&descSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=𝗭-𝗜𝗺𝗮𝗴𝗲%20𝗨𝗽𝘀𝗰𝗮𝗹𝗲𝗿&fontAlignY=30&fontSize=90&desc=AI-Powered%202x%2F4x%20Enhancement%20·%20Real-ESRGAN%20·%20Face%20Enhance&descSize=25" />
 
 <br/>
 
